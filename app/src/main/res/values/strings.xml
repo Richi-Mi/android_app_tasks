@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    
+    <!-- Menu Texts -->
+    <string name="completed"> Completadas </string>
+    <string name="earrings"> Pendientes </string>
+    <string name="all"> Todas </string>
+    <string name="my_info"> Mi Informaciòn </string>
+    <string name="new_task"> Nueva </string>
+
+    <!-- Form Strings -->
+    <string name="content"> Contenido: </string>
+    <string name="write_here"> Escriba aqui </string>
+    <string name="save"> Guardar </string>
+
+    <!-- Login Screen -->
+    <string name="iniciar"> Iniciar Sesion </string>
+    <string name="username"> Nombre de Usuario: </string>
+    <string name="password"> Contraseña: </string>
+    <string name="btn_iniciar"> Iniciar Sesion </string>
+
+    <string-array name="type_login">
+        <item> Login </item>
+        <item> Create </item>
+    </string-array>
+</resources>
